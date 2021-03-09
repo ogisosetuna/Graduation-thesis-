@@ -1,9 +1,11 @@
 # Graduation-thesis-
 
-因为换电脑了 当初写的代码没保存下来，可惜。把当初的论文上传留作纪念了。
+The system is developed based on Android studio.
 
-会议白板利用手机热点进行多用户的连接，可以实现多台 Android Android 手机同时对白板进行诸如手绘、文字插入、插入图片、撤销和恢复操作。
-系统基于 Android studio进行开发。
+Because I changed the computer, the code I wrote at the time was not saved, which is a pity. I uploaded the original paper as a souvenir.
+
+The conference whiteboard uses the mobile phone hotspot for multi-user connection, and multiple Android phones can simultaneously perform operations such as hand drawing, text insertion, image insertion, undo and recovery on the whiteboard.
+
 
 <img src="https://github.com/ogisosetuna/Graduation-thesis-/blob/main/app%20test/Screenshot_2018-05-22-16-29-38-83.png" width="200" height="400" alt="main"/><br/>
 
